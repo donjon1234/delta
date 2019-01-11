@@ -1,0 +1,20 @@
+{"frames": {
+
+"AzureDragon.png":
+{
+	"frame": {"x":0,"y":0,"w":2216,"h":1630},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2216,"h":1630},
+	"sourceSize": {"w":2216,"h":1630}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "appp.png",
+	"format": "RGBA8888",
+	"size": {"w":2216,"h":1630},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1d84e81e7d8a725724eca6e5cfe63a18:b4582adc649efbce3e2daad8558481e2:851090796a84b4cf8aab0feeaff8b6b3$"
+}
+}
